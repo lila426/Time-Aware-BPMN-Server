@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml">
+<key id="NetworkType" for="graph">
+<desc>Network Type</desc>
+<default>CSTNU</default>
+</key>
+<key id="nEdges" for="graph">
+<desc>Number of edges in the graph</desc>
+<default>0</default>
+</key>
+<key id="nVertices" for="graph">
+<desc>Number of vertices in the graph</desc>
+<default>0</default>
+</key>
+<graph edgedefault="directed">
+<data key="NetworkType">CSTNU</data>
+<data key="nEdges">2</data>
+<data key="nVertices">3</data>
+<node id="Activity_1f419zc_E"/>
+<node id="Activity_1f419zc_S"/>
+<node id="Z"/>
+<edge source="Activity_1f419zc_S" target="Activity_1f419zc_E"/>
+<edge source="Activity_1f419zc_E" target="Activity_1f419zc_S"/>
+</graph>
+</graphml>
